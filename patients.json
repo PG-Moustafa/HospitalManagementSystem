@@ -1,0 +1,14 @@
+[
+    {
+        "fname": "Moustafa",
+        "lname": "Khodor",
+        "age": 21,
+        "patientID": 1
+    },
+    {
+        "fname": "Malak",
+        "lname": "Khodor",
+        "age": 21,
+        "patientID": 2
+    }
+]
